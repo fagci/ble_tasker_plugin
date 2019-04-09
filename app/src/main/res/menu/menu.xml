@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_apply_changes" android:title="@string/apply_changes"/>
+    <item android:id="@+id/menu_discard_changes" android:title="@string/discard_changes"/>
+</menu>

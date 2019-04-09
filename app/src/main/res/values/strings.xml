@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BLEPlugin</string>
+    <string name="apply_changes">Apply changes</string>
+    <string name="discard_changes">Discard changes</string>
+</resources>
